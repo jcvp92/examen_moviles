@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var api = \"http://192.168.16.1:19006/api/\";","map":{"version":3,"sources":["C:/xampp/htdocs/Momento2_Aplicativos_Moviles/citapp/global.js"],"names":["api"],"mappings":"AACA,OAAO,IAAMA,GAAG,GAAG,gCAAZ","sourcesContent":["\r\nexport const api = \"http://192.168.16.1:19006/api/\"\r\n"]},"metadata":{},"sourceType":"module"}
